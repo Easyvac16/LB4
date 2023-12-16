@@ -1,0 +1,60 @@
+div {
+    border: 1px solid;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
+
+body {
+    background-color: rgb(37, 47, 72);
+    font-family: Arial, sans-serif;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid rgb(0, 225, 255);
+    border-left: 0px;
+    padding: 10px;
+}
+
+.border-right {
+    border-right: 0px;
+}
+
+.border-right-bottom {
+    border-right: 0;
+    border-bottom: 0;
+}
+
+.border-bottom {
+    border-bottom: 0px;
+}
+
+tr {
+    color: white;
+}
+
+th {
+    background-color: rgb(37, 47, 72);
+
+    color: orange;
+    text-align: left;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    width: 100px;
+}
+
+.q1 {
+    width: 80px;
+}
+
+.company-item {
+    width: 150px;
+}
+
+a {
+    color: aliceblue;
+}
